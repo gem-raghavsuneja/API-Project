@@ -1,0 +1,3 @@
+element,tag,id,type,class,name
+token,input,None,hidden,None,token
+email,input,None,email,formcontrol,email
